@@ -4,10 +4,6 @@
 
 This project involves developing control and data acquisition/visualization software for a Fourier Transform Spectrometer (FTS) used for optical characterization of materials, filters, and other optical components. The spectrometer supports microwave and sub-millimeter astrophysics missions at NASA Goddard Space Flight Center.
 
-The project utilizes two main hardware components:
-1. **LabJack U6**: A versatile data acquisition device.
-2. **Zaber X-MCB1**: A motor controller for precise movement control.
-
 ## Internship Project Description
 
 As an intern at NASA Goddard Space Flight Center, I helped to commission a Fourier Transform Spectrometer with a cryogenic bolometer system as the detector. My primary task was to develop software for controlling the FTS and analyzing/visualizing the collected data. This software facilitates the control and data collection necessary for the FTS operations.
@@ -65,10 +61,6 @@ This project would not have been possible without the invaluable support of my f
 - **Thomas Essinger-Hileman**
 - **Kyle Helson**
 - **Sumit Dahal**
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## References
 
